@@ -17,7 +17,7 @@ Cloud engineer working with AWS, Terraform and Kubernetes. I also build macOS ap
 ## Projects
 
 - **[pradakshina-108](https://github.com/13v13reddy/pradakshina-108)**: a quiet, offline, iPhone-first companion for counting 108 pradakshinas. [Open the app](https://13v13reddy.github.io/pradakshina-108/)
-- **[flipoff-mac](https://github.com/13v13reddy/flipoff-mac)**: a retro split-flap display as a Mac widget and screen saver, with an MCP server so AI agents can drive it
+- **[flipoff-mac](https://github.com/13v13reddy/flipoff-mac)**: a retro split-flap display. A native Mac widget, screen saver and MCP server for AI agents are [in progress](https://github.com/13v13reddy/flipoff-mac/pull/1)
 - **[tictactoe](https://github.com/13v13reddy/tictactoe)**: a React and TypeScript game, containerized with Docker and deployed with Kubernetes manifests
 - **[HabitTracker](https://github.com/13v13reddy/HabitTracker)**: a habit tracker with streaks, categories and progress charts, built with React and Tailwind
 
